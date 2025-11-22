@@ -101,11 +101,9 @@ Web3/블록체인 산업 리서처·데이터 애널리스트 직무(JD)에 최�
 
 ---
 
-## 📂 프로젝트 구조
-web3_chain_radar/
-│
-├─ app.py # Streamlit 전체 메인 앱
-├─ fonts/
-│ └─ NanumGothic.ttf # 한글 Wordcloud용 폰트
-├─ requirements.txt
-└─ README.md
+
+[def]: image.png
+[def]: image-1.png
+[def]: image-2.png
+[def]: image-3.png
+[def]: image-4.png
